@@ -1,0 +1,43 @@
+FIRST_HARM,FirstHarmfulEvent
+1,Bank or Ledge
+2,Trees
+3,Utility Pole
+4,Fence or Post
+5,Guard Rail
+6,Parked Vehicle
+7,"Tunnel, Bridge, Underpass, Culvert, etc."
+8,"Sign, Traffic Signal"
+9,Impact Cushioning Device
+10,Other (10)
+11,Jersey Wall
+12,Building/Structure
+13,Curb
+14,Ditch
+15,Other Fixed Object
+16,Other Traffic Barrier
+17,Traffic Sign Support
+18,Mailbox
+19,Ped
+20,Motor Vehicle in Transport
+21,Train
+22,Bicycle
+23,Animal
+24,Work Zone Maintenance Equipment
+25,Other Movable Object
+26,Unknown Movable Object
+27,Other (27)
+28,Ran Off Road
+29,Jack Knife
+30,Overturn (Rollover)
+31,Downhill Runaway
+32,Cargo Loss or Shift
+33,Explosion or Fire
+34,Separation of Units
+35,Cross Median
+36,Cross Centerline
+37,"Equipment Failure (Tire, etc.)"
+38,Immersion
+39,Fell/Jumped from Vehicle
+40,Thrown or Falling Object
+41,Non-Collision Unknown
+42,Other Non-Collision

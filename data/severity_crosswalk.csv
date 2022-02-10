@@ -1,0 +1,6 @@
+CRASH_SEVE,CrashSeverity
+K,Fatal
+A,Severe Injury
+B,Visible Injury
+C,Nonvisible Injury
+O,Property Damage Only

@@ -1,0 +1,12 @@
+COLLISION_,CollisionType
+1,Rear End
+2,Angle
+3,Head On
+4,Sideswipe - Same Direction
+5,Sideswipe - Opposite Direction
+6,Fixed Object in Road
+7,Train
+8,Non-Collision
+9,Fixed Object - Off Road
+10,Deer
+11,Other Animal

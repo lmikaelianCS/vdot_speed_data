@@ -1,0 +1,8 @@
+LIGHT_COND,LightCondition
+1,Dawn
+2,Daylight
+3,Dusk
+4,Darkness - Road Lighted
+5,Darkness - Road Not Lighted
+6,Darkness - Unknown Road Lighting
+7,Unknown
